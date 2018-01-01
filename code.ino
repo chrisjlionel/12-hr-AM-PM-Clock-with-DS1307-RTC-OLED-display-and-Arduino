@@ -1,3 +1,8 @@
+// This project is coded by J Lionel Christian Jeyaraj (M.tech in Advanced manufacturing)
+// Browse his featured works @ https://www.instructables.com/member/chrisjlionel/instructables/
+// Email chrisjlionel@live.com
+// mobile +91-8807971412
+
 #include <Wire.h>
 #include <DS1307.h>
 #include <Adafruit_GFX.h> //for this must add lib file download from Adfruit
